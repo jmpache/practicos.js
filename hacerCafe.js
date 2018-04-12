@@ -9,3 +9,4 @@ function hacerCafe(cafe, azucar, leche) {
 }
 
 console.log(hacerCafe(2,3,17));
+console.log("jajaja, probando 1, 2, 3");
